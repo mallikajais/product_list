@@ -1,0 +1,71 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	font-size: 30px;
+}
+
+body{
+	font-family: Verdana;
+	font-size: 0.8em;
+}
+
+ #main p{
+	font-size: 20px;
+	word-spacing: 2px;
+	text-align: justify;
+	margin: 30px 20px 30px 20px;
+}
+.footer{
+	background-color: black;
+	height: 20vh;
+	width: auto;
+	color: white;
+	padding-left: 50px;
+	padding: 18px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.link1 a{
+	margin-right: 20px;
+	text-decoration: none;
+	color: white;
+	fo
+	}
+.link1{
+	float: right;
+	font-size:20px;
+}
+		
+.head1
+	{
+		padding: 15px 50px 15px 50px;
+		height:90px;
+		line-height: 70px;
+		background-color: black;
+		background-image: url('images/l.png');
+		background-repeat: no-repeat;
+		background-size: 120px,50px;
+		
+			
+	}
+h1,h2{
+	text-align: center;
+}
+.btn-info{
+	font-size: 15px;
+	border-radius: 20px;
+	width: 50%;
+	height: 30px;
+	
+}
+img{
+	height: 30vh;
+    width: 40%;
+}
+ 
+
+ 
+
